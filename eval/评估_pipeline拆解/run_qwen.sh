@@ -1,0 +1,2 @@
+bash run_CMeIE_qwen2_notype.sh
+bash run_CMeIE_qwen2_withtype.sh

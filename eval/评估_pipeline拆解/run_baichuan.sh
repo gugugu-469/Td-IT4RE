@@ -1,2 +1,0 @@
-bash run_CMeIE_baichuan2_notype.sh
-bash run_CMeIE_baichuan2_withtype.sh
